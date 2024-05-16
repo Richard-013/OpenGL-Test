@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Richard Horton\Documents\GitHub\OpenGL-Test\Libraries\OpenGL\CMakeFiles\0c8405619b2669c03c7e6ce3f52937d3\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Richard Horton\Downloads\OpenGL\glfw-3.4\glfw-3.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Richard Horton\Downloads\OpenGL\glfw-3.4\glfw-3.4\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\Richard Horton\Downloads\OpenGL\glfw-3.4\glfw-3.4\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\Richard Horton\Documents\GitHub\OpenGL-Test\Libraries\OpenGL\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{54873695-105D-3304-ADFC-4CFCEE4A0147}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{06711259-8689-36F3-A25B-9F9D2BFDC2BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
