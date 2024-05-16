@@ -75,7 +75,7 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LibraryPath>C:\Users\Richard Horton\Documents\GitHub\OpenGL-Test\Libraries\glad\include;C:\Users\Richard Horton\Documents\GitHub\OpenGL-Test\Libraries\OpenGL;C:\Users\Richard Horton\Documents\GitHub\OpenGL-Test\Libraries\OpenGL\include;$(LibraryPath)</LibraryPath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
